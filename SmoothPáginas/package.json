@@ -1,0 +1,26 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.14.6",
+    "@dogstudio/highway": "^2.2.1",
+    "@material-ui/core": "^5.0.0-beta.0",
+    "@tweenjs/tween.js": "^18.6.4",
+    "css": "^3.0.0",
+    "gsap": "^3.7.0",
+    "import-export": "^1.0.1",
+    "parcel-bundler": "^1.12.5",
+    "react-fade-in": "^2.0.1",
+    "tween": "^0.9.0",
+    "tweenjs": "^1.0.2",
+    "vue-light-timeline": "^1.0.3",
+    "vue2-transitions": "^0.3.0"
+  }
+}
